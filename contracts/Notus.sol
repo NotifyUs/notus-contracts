@@ -1,6 +1,6 @@
 pragma solidity ^0.5.0;
 
-contract Velcro {
+contract Notus {
   mapping(bytes32 => address) owners;
 
   event Registered(address owner, bytes ipfsHash);

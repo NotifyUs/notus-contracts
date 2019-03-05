@@ -12,6 +12,7 @@
     "zos.*.json"
   ],
   "scripts": {
+    "test": "truffle test --network local",
     "start": "./scripts/ganache.sh",
     "migrate": "truffle migrate --network local",
     "migrate-ropsten": "truffle migrate --network ropsten",

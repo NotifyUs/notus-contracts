@@ -1,9 +1,9 @@
 {
   "zosversion": "2",
-  "name": "velcro-contracts",
+  "name": "notus-contracts",
   "version": "0.1.0",
   "contracts": {
-    "Velcro": "Velcro",
+    "Notus": "Notus",
     "Migrations": "Migrations"
   }
 }
